@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# NekoRay runtime / user data (each profile contains credentials)
+nekoray-*/
+config/
+*.json.bak-autoconnect
+*.tmp-autoconnect
+
+# Logs / temp
+*.log
